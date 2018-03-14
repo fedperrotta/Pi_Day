@@ -1,3 +1,6 @@
 # Pi_Day
-2nd try to build a repo
-Oggi ho imparato a usare github da terminale
+2nd try to build a repo /n
+
+Oggi ho imparato a usare github
+
+Adesso provo a cambiare un branch
